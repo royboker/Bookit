@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/bottom_home"
+        android:title="דף הבית"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+    <item
+        android:id="@+id/bottom_short"
+        android:title="תנאי שימוש"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+    <item
+        android:title=""
+        android:enabled="true"/>
+
+    <item
+        android:id="@+id/bottom_subscription"
+        android:title="חיפוש ספרים"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+    <item
+        android:id="@+id/bottom_exit"
+        android:title="התנתקות"
+        android:icon="@drawable/ic_baseline_home_24"/>
+
+
+</menu>
